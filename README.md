@@ -1,7 +1,4 @@
-# Molecular Property Prediction — Deep Learning Assignment 2
-
-![Molecular Representation](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Ethanol-3D-balls.png/320px-Ethanol-3D-balls.png)
-
+# Molecular Property Prediction DL
 *Comparing geometric (3D) vs. textual (SMILES) representations for molecular formation energy prediction.*
 
 ---
